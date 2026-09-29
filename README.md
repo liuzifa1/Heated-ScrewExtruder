@@ -1,6 +1,5 @@
 # Heated Screw Extruder Firmware
 
-![pic1](docs/Picture1.png)
 ![pic2](docs/Picture2.png)
 
 ESP32-S3 firmware for a heated screw extruder / composites mixer controller.
@@ -194,3 +193,11 @@ are also supported in firmware.
 ## 10) License
 
 This project is licensed under the terms in [`LICENSE`](LICENSE).
+
+---
+
+## 11) Others
+
+Here's actual product in case you want to see
+
+![pic1](docs/Picture1.png)
